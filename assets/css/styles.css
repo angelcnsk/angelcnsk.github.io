@@ -33,3 +33,14 @@ span>p{
 .name-angel{
     padding-bottom: 5%;
 }
+.photo{
+    max-height: 150px;
+    border-radius: 50%;
+}
+.footer-brand{
+    background: #1c1c1c;
+    color:#fff;
+}
+.footer-brand strong{
+    color:#fff;
+}
